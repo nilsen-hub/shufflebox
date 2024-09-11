@@ -30,7 +30,6 @@ fn main() {
     let mut val: usize;
     let mut seus: usize;
     let mut counter: usize;
-    //let mut seed           = 69;
     let mut array_pointer = 0;
     let mut left_in_deck = 52;
 
