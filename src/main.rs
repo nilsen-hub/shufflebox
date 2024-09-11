@@ -1,4 +1,4 @@
-// shuffles a deck of cards in a predictable way using a seeded PRNG
+// shuffles a deck of cards in a deterministic, repeatable way using a seeded PRNG
 use rand::{Rng, SeedableRng};
 use std::io;
 
